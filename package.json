@@ -1,7 +1,7 @@
 {
   "name": "ExpressTemplate",
   "version": "1.0.0",
-  "description": "Template for extensible express API application",
+  "description": "Basic template for extensible express API application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

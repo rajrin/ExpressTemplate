@@ -3,7 +3,7 @@
  * 
  * References:
  *      https://expressjs.com/en/4x/api.html
- * Git Help
+ * Git Helpok
  *      http://gitref.org/remotes/#fetch
  *      https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
  */
