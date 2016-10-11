@@ -3,7 +3,9 @@
  * 
  * References:
  *      https://expressjs.com/en/4x/api.html
- * 
+ * Git Help
+ *      http://gitref.org/remotes/#fetch
+ *      https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
  */
 var express = require('express')
 var bodyParser = require('body-parser')
